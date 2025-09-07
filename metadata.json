@@ -1,0 +1,5 @@
+{
+  "name": "Visual Fusion Canvas",
+  "description": "An interactive canvas where you can visually arrange ideas using images, notes, and arrows. The AI interprets your canvas layout to generate new, context-aware images.",
+  "requestFramePermissions": []
+}
