@@ -49,4 +49,4 @@ Artists, designers, storytellers, and hobbyists looking to explore AI-driven cre
 Thanks [Google AI Studio](https://aistudio.google.com/apps) for vibe coding to create this app
 
 ## Note
-💡 Note: This project is *entirely vibe coded*, so I’m looking for passionate and enthusiastic contributors to **refactor** and **further develop the app**.
+💡 Note: This project is *entirely vibe coded*, so I’m looking for passionate and enthusiastic contributors to **refactor** and **further develop the app**. Please see the `technical_notes.md` for details.
